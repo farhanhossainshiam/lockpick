@@ -1,6 +1,6 @@
 ## LockPick
 
-I'm not developing this minigame script [Blue](https://github.com/kamelzarandah) is the main owner. Just upload my GitHub with her permission
+I'm not developing this minigame script [Blue](https://github.com/kamelzarandah) is the main owner. Just upload my GitHub with his permission
 
 
 
